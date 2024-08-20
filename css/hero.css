@@ -1,0 +1,65 @@
+body{
+	margin: 0;
+	font-family: Helvetica, Arial, sans-serif;
+    font-size: 20px;
+    line-height: 30px;
+    background-color: gold;
+
+}
+
+header{
+	background-image: url(https://t3.ftcdn.net/jpg/03/04/08/66/360_F_304086657_Cwngn0hMG75jviEXXSRneWvhBLIsgjki.jpg);
+	background-size: cover;
+	text-align: center;
+	padding-top: 50px;
+	padding-block: 50px;
+}
+
+
+
+header h1{
+	color: whitesmoke;
+	font-size: 50px;
+}
+
+header img{
+	border-radius: 300px;
+	width: 200px;
+	border: 10px darkgoldenrod;
+}
+main{
+	background-color: whitesmoke;
+	opacity: 95%;
+	max-width: 800px;
+	margin: 0 auto;
+	padding: 20px;
+}
+
+main img{
+	max-width: 100%;
+}
+
+h2{
+	font-size: 35px;
+	color: navy;
+	margin: 40px 0 10px;
+}
+
+a{
+	color: navy;
+}
+a:hover{
+	color: red;
+}
+
+footer{
+	color: whitesmoke;
+	text-align: center;
+}
+
+p.caption{
+	color: gray;
+	font-size: 10px;
+	font-style: italic;
+	margin-top: 0;
+}
